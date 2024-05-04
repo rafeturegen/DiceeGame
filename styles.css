@@ -1,0 +1,35 @@
+body {
+    background-color: #393e46;
+}
+.container {
+    color:#4ecca3;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}
+.players {
+    display:flex;
+    justify-content: center;
+    gap: 125px;
+    font-size: 2rem;
+    font-family: "Indie Flower", cursive;
+}
+footer {
+    color:white;
+    text-align: center;
+    margin-top: 200px;
+    font-family: "Indie Flower", cursive;
+}
+.refresh h1 { 
+    font-size: 8rem;
+    font-family: Lobster, cursive;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dices {
+    display: flex;
+    gap: 80px;
+    margin-left: 32%;
+    height: 200px;
+    width: 200px;
+}
